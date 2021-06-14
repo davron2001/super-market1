@@ -13,7 +13,7 @@ public class ApiController {
 
     @GetMapping("/git")
     public String git() {
-        return "Hello git";
+        return "Hello gitt";
     }
 
 }
